@@ -1,4 +1,4 @@
-# Quantitative Financial Risk Management & Econometric Modeling
+# Quantitative Financial Risk Management Modeling
 
 A MATLAB framework for market risk estimation, non-linear volatility dynamics, copula-based dependence modeling, backtesting, and derivatives risk factor mapping.
 
