@@ -6,7 +6,7 @@ A MATLAB framework for market risk estimation, non-linear volatility dynamics, c
 
 ## Overview
 
-This repository provides an end-to-end econometric modeling and market risk framework across foreign exchange rates, US equities, and equity index options:
+This repository provides a modeling and market risk framework across foreign exchange rates, US equities, and equity index options:
 
 - **Module 1: Volatility Dynamics & Copula Dependence**  
   Models conditional volatility for currency pairs (USD/SEK, EUR/SEK) using Equally Weighted Moving Averages (EqWMA), Exponentially Weighted Moving Averages (EWMA / RiskMetrics), and GARCH(1,1) via Maximum Likelihood Estimation (MLE). Joint tail dependence is modeled across Archimedean and Elliptical copulas using the Inference Functions for Margins (IFM) framework.
