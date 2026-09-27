@@ -1,0 +1,23 @@
+# MATLAB temporary files and backups
+*.asv
+*.autosave
+*.m~
+matlab_crash_dump.*
+*.slxc
+*.mex*
+
+# Temporary execution output files
+NumResults.txt
+OutputLab2.txt
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.swp
+*~
